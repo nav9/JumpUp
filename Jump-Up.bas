@@ -1,6 +1,5 @@
 '<Jump-up. A fun game written in GW-BASIC>
-'Copyright (C) <2014>  <Navin Ipe>
-'Contact: navinipe at gmail dot com
+'Copyright (C) <2014>  <Navin>
 
 'This program is free software: you can redistribute it and/or modify
 'it under the terms of the GNU General Public License as published by
